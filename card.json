@@ -1,0 +1,106 @@
+{
+  "slug": "eleanor-price",
+  "name": "Eleanor Price",
+  "pronouns": "she/her",
+  "title": "Ph.D. Candidate, English",
+  "headline": "Southern Gothic, ecocriticism and the haunted landscape.",
+  "department": "Department of English",
+  "organization": "University of Georgia",
+  "gsaRole": "GSA Member",
+  "badgeLabel": "GSA Member",
+  "location": "Athens, GA",
+  "photo": "",
+  "bio": "My dissertation reads Flannery O'Connor and Jesmyn Ward through the lens of environmental grief. I teach ENGL 1102 and edit for a campus literary journal.",
+  "email": "yourname@uga.edu",
+  "phone": "+1 706 555 0142",
+  "website": "https://example.com",
+  "cv": "assets/cv.pdf",
+  "calendar": "https://calendar.app.google/your-booking-link",
+  "researchInterests": [
+    "Southern literature",
+    "Ecocriticism",
+    "Gothic studies",
+    "Digital humanities"
+  ],
+  "links": [
+    {
+      "label": "Portfolio",
+      "url": "https://example.com",
+      "icon": "website"
+    },
+    {
+      "label": "ORCID",
+      "url": "https://orcid.org/",
+      "icon": "orcid"
+    },
+    {
+      "label": "Bluesky",
+      "url": "https://bsky.app/",
+      "icon": "social"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Kudzu and memory in the contemporary Southern novel",
+      "venue": "Mississippi Quarterly",
+      "year": 2026,
+      "authors": "",
+      "url": "https://doi.org/10.0000/example"
+    },
+    {
+      "title": "Teaching grief through place",
+      "venue": "Pedagogy",
+      "year": 2025,
+      "authors": "",
+      "url": "https://doi.org/10.0000/example"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Haunted Georgia Map",
+      "description": "Digital humanities map of literary landscapes",
+      "url": "https://example.com"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ph.D. Candidate, English",
+      "school": "University of Georgia",
+      "years": "2024 – present"
+    }
+  ],
+  "awards": [],
+  "officeHours": "By appointment · use the booking link",
+  "events": [
+    {
+      "title": "GSA General Assembly",
+      "date": "Nov 4, 2026",
+      "where": "Tate Center 480",
+      "url": ""
+    },
+    {
+      "title": "Research Showcase Poster Night",
+      "date": "Nov 19, 2026",
+      "where": "Zell B. Miller Learning Center",
+      "url": ""
+    }
+  ],
+  "brand": {
+    "cardName": "GSA Connect",
+    "org": "UGA Graduate Student Association",
+    "orgShort": "UGA GSA"
+  },
+  "theme": {
+    "accent": ""
+  },
+  "poweredBy": {
+    "name": "ScholarTap",
+    "url": "https://scholartap.com"
+  },
+  "siteUrl": "",
+  "wallet": {
+    "backgroundColor": "#7a1f2b",
+    "foregroundColor": "#FFFFFF",
+    "labelColor": "#EDEDED"
+  }
+}
